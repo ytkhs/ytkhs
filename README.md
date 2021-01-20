@@ -1,11 +1,7 @@
-### Hi there 👋
+## ytkhs 👋
 
-this is Github profile README
-
+🔭 Web Developer currently working on Yokohama, Japan
 https://api.github.com/users/ytkhs
- 
-- 🔭  I’m currently working on Yokohama, Japan
 
-
-create this profile by
-https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+- [Zenn](https://zenn.dev/ytkhs)
+- [Qiita](https://qiita.com/ytkhs)
